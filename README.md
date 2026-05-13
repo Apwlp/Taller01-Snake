@@ -13,3 +13,19 @@ Integrante 3    : Luis Peñaherrera
 
 # Cambios Lider
 <img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/dc667532-8585-4373-a848-3570ca8fc42f" />
+
+#Cambios Integrante 1 y 4
+#Captura de Error
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/014450fb-ff43-4092-9af0-3079f4108a09" />
+
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/2f675fdd-7f22-480d-84e9-f5f0e0780355" />
+
+#Captura de Push Existoso
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/820dba3b-44cf-4ec1-8ce5-9a4786598504" />
+
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/6197f0fa-b933-44f2-b361-b06236fec83f" />
+
+
+
+
+
