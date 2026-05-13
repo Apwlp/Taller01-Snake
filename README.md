@@ -25,6 +25,12 @@ Integrante 3    : Luis Peñaherrera
 
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/6197f0fa-b933-44f2-b361-b06236fec83f" />
 
+#Cambios del Integrante 2
+#Captura de error
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/1b33faf9-d297-4aa5-90ad-bb8cc4d5454b" />
+#Captura de push exitoso
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/2ab01246-c9dd-4fbc-b8f6-796003d30d3c" />
+
 
 
 
